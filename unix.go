@@ -1,4 +1,4 @@
-// +build linux
+// +build linux freebsd openbsd netbsd dragonfly
 
 package ergo
 
